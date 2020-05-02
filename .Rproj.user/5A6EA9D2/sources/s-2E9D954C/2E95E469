@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588437053318.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2E95E469",
+    "lastKnownWriteTime" : 1588438499,
+    "last_content_update" : 1588438499551,
+    "path" : "C:/Users/cme/Desktop/R/scripts/projects/murders/murders_report.Rmd",
+    "project_path" : "murders_report.Rmd",
+    "properties" : {
+        "cursorPosition" : "4,18",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

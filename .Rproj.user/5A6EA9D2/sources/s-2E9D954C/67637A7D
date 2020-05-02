@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587830235035.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "67637A7D",
+    "lastKnownWriteTime" : 1587830971,
+    "last_content_update" : 1587830971347,
+    "path" : "C:/Users/cme/Desktop/R/scripts/projects/murders/download-data.R",
+    "project_path" : "download-data.R",
+    "properties" : {
+        "cursorPosition" : "2,40",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
